@@ -1,1 +1,1 @@
-https://hamzaumer.github.io/PSD-to-HTML-Website-Practice/
+https://hamzaumer.github.io/PSD-to-HTML-Website-Practice/index.html

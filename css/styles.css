@@ -3,6 +3,9 @@ a:visited,
 a:active {
   text-decoration: none;
 }
+html, body {
+  overflow-x: hidden;
+}
 /*..........
 1. Header Css
 ...........*/

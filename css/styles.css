@@ -5,6 +5,7 @@ a:active {
 }
 html, body {
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 /*..........
 1. Header Css
